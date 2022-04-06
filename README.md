@@ -3,27 +3,11 @@
 Adaptation of the walkscore methodology in the European environment.<br>
 "Spatial behaviour of the Walkability Index, Walk Score and Walk Score modification for elderly"
 
-**WS - Walkscore:**
-
+**WS - Walkscore:**<br>
 Anaconda environment is needed.
-
 conda env create --file walkscore_analysis_env.yml
 
-
-
-
-Walkability index:
-
-It works as ArcToolbox for software ArcGIS Desctop 9.3. and 10.
+**Walkability index:**<br>
+ArcToolbox requires software ArcGIS Desctop 9.3. and 10.
 Toolbox is fully functional under ArcView license and higher.
-
-===============================================================
-
-Loading into ArcGIS
-1) Save toolbox to your local disk
-2) Run ArcGIS (ArcCatalog, ArcMap...)
-3) Show ArcToolbox Window
-4) Right mouse click in ArcToolbox Window -> Add Toolbox
-5) Find file Walk Ability Index.tbx in folder wai
-6) Open it
-7) Now you can use it
+File database named Data.gdb has to be created prior running the tools.
