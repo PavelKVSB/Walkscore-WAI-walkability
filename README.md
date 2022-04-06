@@ -2,8 +2,10 @@
 
 Adaptation of the walkscore methodology in the European environment.
 
-WS - Walkscore:
+**WS - Walkscore:**
+Anaconda environment is needed.
 
+conda env create --file walkscore_analysis_env.yml
 
 
 
