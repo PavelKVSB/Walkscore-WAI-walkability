@@ -1,6 +1,7 @@
 # Walkscore-WAI-walkability
 
 Adaptation of the walkscore methodology in the European environment.
+"Spatial behaviour of the Walkability Index, Walk Score and Walk Score modification for elderly"
 
 **WS - Walkscore:**
 
