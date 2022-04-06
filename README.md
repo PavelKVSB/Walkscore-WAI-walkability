@@ -4,7 +4,7 @@ Adaptation of the walkscore methodology in the European environment.<br>
 "Spatial behaviour of the Walkability Index, Walk Score and Walk Score modification for elderly"
 
 **WS - Walkscore:**<br>
-Anaconda environment is needed.
+Anaconda environment is needed.<br>
 conda env create --file walkscore_analysis_env.yml
 
 **Walkability index:**<br>
