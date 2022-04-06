@@ -23,5 +23,5 @@ Loading into ArcGIS
 Tomas KRIVKA, UPOL, KGI
 
 ===============================================================
-Adjustments were made allowing calculation of the walkability index for overlapping regions
-It is important to create a new file geodatabase named Data.gdb for storing temporary files
+Adjustments were made allowing calculation of the walkability index for overlapping regions.
+It is important to create a new file geodatabase named Data.gdb for storing temporary files.
