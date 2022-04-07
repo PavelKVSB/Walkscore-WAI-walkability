@@ -1,7 +1,7 @@
 # Walkscore-WAI-walkability
 
 Adaptation of the walkscore methodology in the European environment - two versions were implemented: classic walksore and walkscore for elderly. WAI adaptation for overlapping input regions.<br><br>
-"Spatial behaviour of the Walkability Index, Walk Score and Walk Score modification for elderly"
+"Spatial pattern of the Walkability Index, Walk Score and Walk Score modification for elderly"
 
 **WS - Walkscore:**<br>
 Anaconda environment is needed.<br>
